@@ -1,10 +1,14 @@
 ![enter image description here](https://7964e189fb9a08f4a51c194383012c8d.cdn.bubble.io/f1761771685531x347390430785958500/godelcloud.banner.png	)
-# List of UK Alternative Asset Managers: FCA Authorised & Registered Firms | 2025
-GodelCloud’s [Dataset of UK AIFMs](https://godelcloud.com/uk-aifm-dataset) delivers the structured view that enables value identification and risk mitigation at both the entity and sector level.
-<br>
-<br>
+# List of UK Asset Managers
+<hr>
+
+**Segment:** Alternative Asset Managers
+<hr>
+
+GodelCloud’s [Dataset of UK Alternative Asset Managers](https://godelcloud.com/uk-aifm-dataset) delivers the structured view that enables value identification and risk mitigation at both the entity and sector level.
+
 ## 1. Dataset Features
-- **100% Firm Coverage:** Comprehensive list of all 1,284 FCA Authorised and Registered UK Alternative Investment Fund Managers
+- **100% Firm Coverage:** Comprehensive list of all 1,284 FCA Authorised and Registered UK Alternative Asset Managers
 
 - **AIFM Classification:** Segmentation of firms by regulatory class as Full-Scope, Small Authorised and Small Registered.
 
@@ -13,7 +17,7 @@ GodelCloud’s [Dataset of UK AIFMs](https://godelcloud.com/uk-aifm-dataset) del
 - **Governance Structure:** Visibility of leadership structure & depth through count of Senior Management Function roles.
 
 - **Company Structure:** Company registration ID, legal form, incorporation & authorisation dates, region & key financials.
-	> Visit Product Page: [Dataset of UK AIFMs](https://godelcloud.com/uk-aifm-dataset).
+	> Visit Product Page: [Dataset of UK Alternative Asset Managers](https://godelcloud.com/uk-aifm-dataset).
 <br>
 <br>
 
@@ -23,7 +27,7 @@ GodelCloud’s [Dataset of UK AIFMs](https://godelcloud.com/uk-aifm-dataset) del
   <img src="https://7964e189fb9a08f4a51c194383012c8d.cdn.bubble.io/f1761772313354x105897556092441780/UK%20AIFMs.png" alt="Regional distribution map of FCA Authorised & Registered UK Alternative Investment Fund Managers" width="700">
 </p>
 
-**Source:** [GodelCloud's Dataset of UK AIFMs](https://godelcloud.com/uk-aifm-dataset) | Q4 2025
+**Source:** [Dataset of UK Alternative Asset Managers](https://godelcloud.com/uk-aifm-dataset) | Q4 2025
 <br>
 <br>
 
